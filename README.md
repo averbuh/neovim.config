@@ -1,0 +1,2 @@
+# NeoVim configuration  file
+
